@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://defensive.works/">
     <img width="800" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/rk-banner.png?raw=true" alt="logo" />
