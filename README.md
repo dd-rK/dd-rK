@@ -3,7 +3,8 @@
     <img width="800" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/rk-banner.png?raw=true" alt="logo" />
   </a>
 </p>
-a
+
+
 - 🏆 OSCP, AWS Certified Security Specialty, AWS Certified Advanced Networking Specialty.
 - 💼 I am a Security Engineer with experience building security at Fortune500, Pre-IPO companies, and exponential growth startups.
 - 👷 I Design & Build Security with focus on Infrastructure, Data, Logging & Monitoring, Identity & Access Management, Incident Response by utilizing Detective & Preventive Guardrails and applying security at all layers through defense in depth. 
